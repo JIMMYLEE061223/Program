@@ -1,0 +1,29 @@
+/*void FindPathLengthsFromNode(all_nodes[], int n){
+     vector<Node*> currentShell; //Nodes to be processed now
+     vector<Node*> nextShell; //Store nodes to be processed next
+     int distance =0;
+     for(int i=0;i<all_nodes.size();i++)
+     {
+         for(int j=0;j<all_nodes[i].getSize();j++)
+         {
+             all_nodes[i],getNeighbor(j)->setLevel(0);
+         }
+     }
+     currentShell.push_back(&(all_nodes[j])); //Starting node
+     while(!currentShell.empty()){
+          nextShell.clear();
+          distance++;
+          for(int i=0;i<currentShell.size();i++){
+              for(int j=0;j<currentShell[i]->getSize();j++){
+                  if(currentShell[i]->GetNeighbor(j)->getID()!=0&&currentShell[i]->GetNeighbor(n)->getID!=1){ //level of neighbor is not assigned
+                     nextShell.push_back(currentShell[i]->GetNeighbor(j));
+                     currentShell[i]->GetNeighbor(j)->setLevel(distance);
+                  }
+              }
+          }
+          currentShell=nextShell;
+     }
+     cout<<"the max distance is "<<endl;
+}
+*/
+

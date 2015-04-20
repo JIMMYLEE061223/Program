@@ -1,0 +1,969 @@
+The customer is John,your choices are the following:
+a>r>a>f>b>s>p>w>p>s>p>s>b>
+------------Product return bill:---------------
+Your return number: 41
+Your product model:sphygmometer
+Your product number:29
+Your address is  Kaohsiung
+Your purchase date:2005/11/18
+-----------------------------------------------
+b>s>c>
+------------Product return bill:---------------
+Your return number: 31
+Your product model:sphygmometer
+Your product number:56
+Your address is  Taipei
+Your purchase date:2000/9/14
+-----------------------------------------------
+a>v>c
+
+The customer is Jimmy,your choices are the following:
+c
+
+The customer is Jimmy,your choices are the following:
+a>v>c
+
+The customer is Jimmy,your choices are the following:
+b>s>c>
+------------Product return bill:---------------
+Your return number: 88
+Your product model:sphygmometer
+Your product number:85
+Your address is  Taipei
+Your purchase date:2012/10/27
+-----------------------------------------------
+c
+
+The customer is Tom,your choices are the following:
+a>v>a>p>c
+
+The customer is Jimmy,your choices are the following:
+b>p>c
+
+The customer is Jimmy,your choices are the following:
+c
+
+The customer is Jimmy,your choices are the following:
+b>s>a>
+------------Product return bill:---------------
+Your return number: 51
+Your product model:sphygmometer
+Your product number:80
+Your address is  Tainan
+Your purchase date:2012/10/8
+-----------------------------------------------
+b>p>a>v>c
+
+The customer is John,your choices are the following:
+c
+
+The customer is John,your choices are the following:
+c
+
+The customer is Jimmy,your choices are the following:
+c
+
+The customer is Jimmy,your choices are the following:
+a>f>b>p>c
+
+The customer is John,your choices are the following:
+c
+
+The customer is Jimmy,your choices are the following:
+a>v>c
+
+The customer is Tom,your choices are the following:
+c
+
+The customer is Jimmy,your choices are the following:
+a>r>c
+
+The customer is John,your choices are the following:
+c
+
+The customer is Jimmy,your choices are the following:
+c
+
+The customer is Tom,your choices are the following:
+c
+
+The customer is John,your choices are the following:
+b>w>c>
+------------Product repair bill:---------------
+Your repair number is  66
+Your product model is  smartwatch
+Your purchase date is  2011/3/28
+Your address is  Kaohsiung
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+b>w>b>
+------------Product repair bill:---------------
+Your repair number is  83
+Your product model is  smartwatch
+Your purchase date is  2004/7/13
+Your address is  Kaohsiung
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+a>r>b>s>c>
+------------Product return bill:---------------
+Your return number: 25
+Your product model:sphygmometer
+Your product number:52
+Your address is  Taipei
+Your purchase date:2007/3/30
+-----------------------------------------------
+b>w>a>
+------------Product repair bill:---------------
+Your repair number is  94
+Your product model is  smartwatch
+Your purchase date is  2010/6/15
+Your address is  Kaohsiung
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+c
+
+The customer is Jimmy,your choices are the following:
+a>f>c
+
+The customer is John,your choices are the following:
+b>s>a>
+------------Product return bill:---------------
+Your return number: 14
+Your product model:sphygmometer
+Your product number:81
+Your address is  Kaohsiung
+Your purchase date:2007/2/29
+-----------------------------------------------
+b>w>b>
+------------Product repair bill:---------------
+Your repair number is  74
+Your product model is  smartwatch
+Your purchase date is  2013/6/6
+Your address is  Tainan
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+a>v>a>f>b>w>p>p>a>r>a>f>b>p>b>s>c>
+------------Product return bill:---------------
+Your return number: 31
+Your product model:sphygmometer
+Your product number:23
+Your address is  Tainan
+Your purchase date:2005/3/29
+-----------------------------------------------
+a>p>a>f>c
+
+The customer is Jimmy,your choices are the following:
+a>r>c
+
+The customer is Tom,your choices are the following:
+b>p>c
+
+The customer is Jimmy,your choices are the following:
+a>p>b>p>b>p>a>v>b>w>a>
+------------Product repair bill:---------------
+Your repair number is  12
+Your product model is  smartwatch
+Your purchase date is  2008/9/3
+Your address is  Taipei
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+b>p>c
+
+The customer is John,your choices are the following:
+a>r>a>f>c
+
+The customer is John,your choices are the following:
+c
+
+The customer is John,your choices are the following:
+c
+
+The customer is Tom,your choices are the following:
+b>w>a>
+------------Product repair bill:---------------
+Your repair number is  80
+Your product model is  smartwatch
+Your purchase date is  2001/6/23
+Your address is  Tainan
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+a>v>c
+
+The customer is Jimmy,your choices are the following:
+b>s>c>
+------------Product return bill:---------------
+Your return number: 22
+Your product model:sphygmometer
+Your product number:98
+Your address is  Taipei
+Your purchase date:2007/4/5
+-----------------------------------------------
+b>p>a>p>a>r>b>w>a>
+------------Product repair bill:---------------
+Your repair number is  99
+Your product model is  smartwatch
+Your purchase date is  2001/7/6
+Your address is  Taipei
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+b>p>c
+
+The customer is Jimmy,your choices are the following:
+c
+
+The customer is John,your choices are the following:
+a>v>a>v>a>p>c
+
+The customer is Tom,your choices are the following:
+c
+
+The customer is Jimmy,your choices are the following:
+b>s>b>
+------------Product return bill:---------------
+Your return number: 63
+Your product model:sphygmometer
+Your product number:59
+Your address is  Taipei
+Your purchase date:2009/12/28
+-----------------------------------------------
+a>p>b>s>c>
+------------Product return bill:---------------
+Your return number: 65
+Your product model:sphygmometer
+Your product number:58
+Your address is  Tainan
+Your purchase date:2002/7/19
+-----------------------------------------------
+a>r>a>r>b>p>b>s>a>
+------------Product return bill:---------------
+Your return number: 58
+Your product model:sphygmometer
+Your product number:64
+Your address is  Tainan
+Your purchase date:2001/12/16
+-----------------------------------------------
+c
+
+The customer is Jimmy,your choices are the following:
+a>p>a>f>c
+
+The customer is Tom,your choices are the following:
+b>s>b>
+------------Product return bill:---------------
+Your return number: 38
+Your product model:sphygmometer
+Your product number:87
+Your address is  Tainan
+Your purchase date:2005/6/15
+-----------------------------------------------
+a>r>c
+
+The customer is Jimmy,your choices are the following:
+a>f>a>v>b>w>c>
+------------Product repair bill:---------------
+Your repair number is  91
+Your product model is  smartwatch
+Your purchase date is  2011/1/10
+Your address is  Kaohsiung
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+b>s>b>
+------------Product return bill:---------------
+Your return number: 20
+Your product model:sphygmometer
+Your product number:54
+Your address is  Kaohsiung
+Your purchase date:2010/12/20
+-----------------------------------------------
+b>w>b>
+------------Product repair bill:---------------
+Your repair number is  9
+Your product model is  smartwatch
+Your purchase date is  2003/6/25
+Your address is  Tainan
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+a>f>b>p>c
+
+The customer is John,your choices are the following:
+a>v>c
+
+The customer is Tom,your choices are the following:
+b>w>a>
+------------Product repair bill:---------------
+Your repair number is  62
+Your product model is  smartwatch
+Your purchase date is  2004/3/5
+Your address is  Tainan
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+b>p>a>f>a>r>a>f>b>s>b>
+------------Product return bill:---------------
+Your return number: 76
+Your product model:sphygmometer
+Your product number:30
+Your address is  Taipei
+Your purchase date:2009/9/1
+-----------------------------------------------
+a>v>b>w>c>
+------------Product repair bill:---------------
+Your repair number is  37
+Your product model is  smartwatch
+Your purchase date is  2006/1/26
+Your address is  Taipei
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+b>p>b>p>b>p>b>w>a>
+------------Product repair bill:---------------
+Your repair number is  15
+Your product model is  smartwatch
+Your purchase date is  2004/2/15
+Your address is  Tainan
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+b>w>p>s>p>w>a>
+------------Product repair bill:---------------
+Your repair number is  33
+Your product model is  smartwatch
+Your purchase date is  2003/4/5
+Your address is  Taipei
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+a>f>a>v>c
+
+The customer is Jimmy,your choices are the following:
+a>f>c
+
+The customer is Tom,your choices are the following:
+c
+
+The customer is Tom,your choices are the following:
+a>r>a>f>a>f>b>w>a>
+------------Product repair bill:---------------
+Your repair number is  20
+Your product model is  smartwatch
+Your purchase date is  2004/7/7
+Your address is  Tainan
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+b>w>b>
+------------Product repair bill:---------------
+Your repair number is  61
+Your product model is  smartwatch
+Your purchase date is  2000/7/18
+Your address is  Taipei
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+c
+
+The customer is Tom,your choices are the following:
+b>p>b>p>b>w>p>p>b>s>b>
+------------Product return bill:---------------
+Your return number: 36
+Your product model:sphygmometer
+Your product number:74
+Your address is  Taipei
+Your purchase date:2004/12/24
+-----------------------------------------------
+c
+
+The customer is John,your choices are the following:
+a>p>c
+
+The customer is John,your choices are the following:
+b>s>b>
+------------Product return bill:---------------
+Your return number: 35
+Your product model:sphygmometer
+Your product number:56
+Your address is  Kaohsiung
+Your purchase date:2009/12/8
+-----------------------------------------------
+c
+
+The customer is Tom,your choices are the following:
+c
+
+The customer is Tom,your choices are the following:
+b>p>a>p>a>r>b>w>c>
+------------Product repair bill:---------------
+Your repair number is  60
+Your product model is  smartwatch
+Your purchase date is  2013/9/2
+Your address is  Kaohsiung
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+b>s>b>
+------------Product return bill:---------------
+Your return number: 80
+Your product model:sphygmometer
+Your product number:83
+Your address is  Tainan
+Your purchase date:2009/7/21
+-----------------------------------------------
+b>w>p>s>b>
+------------Product return bill:---------------
+Your return number: 14
+Your product model:sphygmometer
+Your product number:59
+Your address is  Kaohsiung
+Your purchase date:2006/2/6
+-----------------------------------------------
+b>w>b>
+------------Product repair bill:---------------
+Your repair number is  20
+Your product model is  smartwatch
+Your purchase date is  2010/7/14
+Your address is  Taipei
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+a>p>a>v>b>s>c>
+------------Product return bill:---------------
+Your return number: 57
+Your product model:sphygmometer
+Your product number:44
+Your address is  Kaohsiung
+Your purchase date:2011/3/23
+-----------------------------------------------
+a>r>a>r>c
+
+The customer is Tom,your choices are the following:
+b>s>a>
+------------Product return bill:---------------
+Your return number: 65
+Your product model:sphygmometer
+Your product number:7
+Your address is  Kaohsiung
+Your purchase date:2011/3/16
+-----------------------------------------------
+b>p>a>f>b>p>b>w>b>
+------------Product repair bill:---------------
+Your repair number is  84
+Your product model is  smartwatch
+Your purchase date is  2007/12/5
+Your address is  Taipei
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+c
+
+The customer is Jimmy,your choices are the following:
+b>w>a>
+------------Product repair bill:---------------
+Your repair number is  73
+Your product model is  smartwatch
+Your purchase date is  2006/9/30
+Your address is  Taipei
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+b>w>c>
+------------Product repair bill:---------------
+Your repair number is  41
+Your product model is  smartwatch
+Your purchase date is  2013/2/21
+Your address is  Kaohsiung
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+a>v>a>f>c
+
+The customer is John,your choices are the following:
+b>w>p>p>c
+
+The customer is John,your choices are the following:
+c
+
+The customer is John,your choices are the following:
+c
+
+The customer is Tom,your choices are the following:
+c
+
+The customer is Tom,your choices are the following:
+b>p>a>f>b>p>b>s>p>w>b>
+------------Product repair bill:---------------
+Your repair number is  52
+Your product model is  smartwatch
+Your purchase date is  2013/3/7
+Your address is  Kaohsiung
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+a>p>b>s>p>p>a>v>c
+
+The customer is Jimmy,your choices are the following:
+b>p>a>v>b>p>b>p>a>f>a>f>b>w>a>
+------------Product repair bill:---------------
+Your repair number is  35
+Your product model is  smartwatch
+Your purchase date is  2011/7/16
+Your address is  Taipei
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+a>v>b>s>a>
+------------Product return bill:---------------
+Your return number: 91
+Your product model:sphygmometer
+Your product number:69
+Your address is  Tainan
+Your purchase date:2004/3/24
+-----------------------------------------------
+a>f>c
+
+The customer is Jimmy,your choices are the following:
+c
+
+The customer is Tom,your choices are the following:
+b>p>a>p>a>v>a>v>b>p>a>v>b>s>p>p>c
+
+The customer is Tom,your choices are the following:
+a>r>a>r>a>f>b>p>a>v>c
+
+The customer is Tom,your choices are the following:
+c
+
+The customer is John,your choices are the following:
+c
+
+The customer is John,your choices are the following:
+b>p>a>p>a>p>b>s>c>
+------------Product return bill:---------------
+Your return number: 45
+Your product model:sphygmometer
+Your product number:86
+Your address is  Kaohsiung
+Your purchase date:2012/11/11
+-----------------------------------------------
+c
+
+The customer is Tom,your choices are the following:
+b>s>b>
+------------Product return bill:---------------
+Your return number: 45
+Your product model:sphygmometer
+Your product number:76
+Your address is  Tainan
+Your purchase date:2008/12/24
+-----------------------------------------------
+a>r>b>w>c>
+------------Product repair bill:---------------
+Your repair number is  42
+Your product model is  smartwatch
+Your purchase date is  2010/7/7
+Your address is  Tainan
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+c
+
+The customer is Tom,your choices are the following:
+b>p>a>p>a>f>b>w>a>
+------------Product repair bill:---------------
+Your repair number is  66
+Your product model is  smartwatch
+Your purchase date is  2011/5/15
+Your address is  Tainan
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+c
+
+The customer is John,your choices are the following:
+a>r>a>v>c
+
+The customer is John,your choices are the following:
+b>w>p>s>c>
+------------Product return bill:---------------
+Your return number: 64
+Your product model:sphygmometer
+Your product number:44
+Your address is  Tainan
+Your purchase date:2005/12/29
+-----------------------------------------------
+b>s>a>
+------------Product return bill:---------------
+Your return number: 48
+Your product model:sphygmometer
+Your product number:4
+Your address is  Tainan
+Your purchase date:2004/11/24
+-----------------------------------------------
+a>v>c
+
+The customer is Jimmy,your choices are the following:
+a>f>a>r>a>p>a>f>c
+
+The customer is Jimmy,your choices are the following:
+a>p>b>p>c
+
+The customer is Tom,your choices are the following:
+c
+
+The customer is Jimmy,your choices are the following:
+a>v>a>r>c
+
+The customer is Tom,your choices are the following:
+b>s>a>
+------------Product return bill:---------------
+Your return number: 5
+Your product model:sphygmometer
+Your product number:49
+Your address is  Tainan
+Your purchase date:2003/11/13
+-----------------------------------------------
+c
+
+The customer is John,your choices are the following:
+b>w>a>
+------------Product repair bill:---------------
+Your repair number is  70
+Your product model is  smartwatch
+Your purchase date is  2000/4/2
+Your address is  Kaohsiung
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+c
+
+The customer is Jimmy,your choices are the following:
+c
+
+The customer is Jimmy,your choices are the following:
+c
+
+The customer is Jimmy,your choices are the following:
+b>p>b>w>b>
+------------Product repair bill:---------------
+Your repair number is  92
+Your product model is  smartwatch
+Your purchase date is  2004/1/20
+Your address is  Kaohsiung
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+c
+
+The customer is Jimmy,your choices are the following:
+a>f>b>s>c>
+------------Product return bill:---------------
+Your return number: 70
+Your product model:sphygmometer
+Your product number:27
+Your address is  Taipei
+Your purchase date:2004/9/26
+-----------------------------------------------
+a>v>b>s>p>s>p>w>b>
+------------Product repair bill:---------------
+Your repair number is  60
+Your product model is  smartwatch
+Your purchase date is  2013/10/5
+Your address is  Taipei
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+c
+
+The customer is Tom,your choices are the following:
+c
+
+The customer is Tom,your choices are the following:
+b>p>b>s>c>
+------------Product return bill:---------------
+Your return number: 62
+Your product model:sphygmometer
+Your product number:86
+Your address is  Taipei
+Your purchase date:2007/4/8
+-----------------------------------------------
+c
+
+The customer is Jimmy,your choices are the following:
+c
+
+The customer is Tom,your choices are the following:
+c
+
+The customer is John,your choices are the following:
+b>s>c>
+------------Product return bill:---------------
+Your return number: 27
+Your product model:sphygmometer
+Your product number:13
+Your address is  Tainan
+Your purchase date:2010/3/21
+-----------------------------------------------
+a>r>b>s>a>
+------------Product return bill:---------------
+Your return number: 81
+Your product model:sphygmometer
+Your product number:52
+Your address is  Taipei
+Your purchase date:2002/3/5
+-----------------------------------------------
+b>w>c>
+------------Product repair bill:---------------
+Your repair number is  18
+Your product model is  smartwatch
+Your purchase date is  2011/2/20
+Your address is  Tainan
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+a>f>a>p>b>s>b>
+------------Product return bill:---------------
+Your return number: 21
+Your product model:sphygmometer
+Your product number:90
+Your address is  Tainan
+Your purchase date:2005/6/2
+-----------------------------------------------
+a>f>a>v>a>p>a>f>b>p>b>p>b>w>b>
+------------Product repair bill:---------------
+Your repair number is  88
+Your product model is  smartwatch
+Your purchase date is  2000/1/3
+Your address is  Tainan
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+a>v>b>s>a>
+------------Product return bill:---------------
+Your return number: 73
+Your product model:sphygmometer
+Your product number:47
+Your address is  Tainan
+Your purchase date:2010/5/6
+-----------------------------------------------
+c
+
+The customer is Tom,your choices are the following:
+c
+
+The customer is Jimmy,your choices are the following:
+a>f>c
+
+The customer is John,your choices are the following:
+a>v>b>p>c
+
+The customer is John,your choices are the following:
+c
+
+The customer is Jimmy,your choices are the following:
+b>s>b>
+------------Product return bill:---------------
+Your return number: 85
+Your product model:sphygmometer
+Your product number:60
+Your address is  Taipei
+Your purchase date:2004/4/17
+-----------------------------------------------
+b>p>a>v>a>v>c
+
+The customer is Jimmy,your choices are the following:
+a>r>b>p>b>s>c>
+------------Product return bill:---------------
+Your return number: 52
+Your product model:sphygmometer
+Your product number:87
+Your address is  Tainan
+Your purchase date:2008/1/29
+-----------------------------------------------
+c
+
+The customer is Tom,your choices are the following:
+b>w>a>
+------------Product repair bill:---------------
+Your repair number is  77
+Your product model is  smartwatch
+Your purchase date is  2007/3/15
+Your address is  Taipei
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+a>p>c
+
+The customer is John,your choices are the following:
+c
+
+The customer is John,your choices are the following:
+a>v>b>s>b>
+------------Product return bill:---------------
+Your return number: 69
+Your product model:sphygmometer
+Your product number:71
+Your address is  Kaohsiung
+Your purchase date:2012/1/25
+-----------------------------------------------
+b>w>p>w>b>
+------------Product repair bill:---------------
+Your repair number is  83
+Your product model is  smartwatch
+Your purchase date is  2004/6/4
+Your address is  Taipei
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+c
+
+The customer is Tom,your choices are the following:
+a>p>b>w>c>
+------------Product repair bill:---------------
+Your repair number is  43
+Your product model is  smartwatch
+Your purchase date is  2012/2/25
+Your address is  Taipei
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+a>r>b>p>a>r>b>s>b>
+------------Product return bill:---------------
+Your return number: 99
+Your product model:sphygmometer
+Your product number:86
+Your address is  Kaohsiung
+Your purchase date:2005/10/21
+-----------------------------------------------
+c
+
+The customer is Jimmy,your choices are the following:
+a>v>a>v>a>p>b>s>b>
+------------Product return bill:---------------
+Your return number: 36
+Your product model:sphygmometer
+Your product number:44
+Your address is  Taipei
+Your purchase date:2009/3/24
+-----------------------------------------------
+b>w>p>w>b>
+------------Product repair bill:---------------
+Your repair number is  63
+Your product model is  smartwatch
+Your purchase date is  2010/6/27
+Your address is  Tainan
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+b>p>c
+
+The customer is Tom,your choices are the following:
+a>v>b>s>a>
+------------Product return bill:---------------
+Your return number: 41
+Your product model:sphygmometer
+Your product number:7
+Your address is  Tainan
+Your purchase date:2002/2/2
+-----------------------------------------------
+a>p>b>w>p>p>b>p>a>v>c
+
+The customer is Jimmy,your choices are the following:
+a>v>b>s>c>
+------------Product return bill:---------------
+Your return number: 48
+Your product model:sphygmometer
+Your product number:45
+Your address is  Kaohsiung
+Your purchase date:2008/11/22
+-----------------------------------------------
+b>w>a>
+------------Product repair bill:---------------
+Your repair number is  97
+Your product model is  smartwatch
+Your purchase date is  2000/2/23
+Your address is  Tainan
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+a>p>c
+
+The customer is Tom,your choices are the following:
+c
+
+The customer is John,your choices are the following:
+b>w>a>
+------------Product repair bill:---------------
+Your repair number is  34
+Your product model is  smartwatch
+Your purchase date is  2013/11/11
+Your address is  Tainan
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+a>v>a>p>c
+
+The customer is Jimmy,your choices are the following:
+b>p>b>w>p>p>a>r>a>f>b>w>a>
+------------Product repair bill:---------------
+Your repair number is  20
+Your product model is  smartwatch
+Your purchase date is  2001/3/11
+Your address is  Tainan
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+c
+
+The customer is John,your choices are the following:
+b>s>b>
+------------Product return bill:---------------
+Your return number: 9
+Your product model:sphygmometer
+Your product number:72
+Your address is  Taipei
+Your purchase date:2001/4/24
+-----------------------------------------------
+a>r>b>s>a>
+------------Product return bill:---------------
+Your return number: 48
+Your product model:sphygmometer
+Your product number:67
+Your address is  Kaohsiung
+Your purchase date:2010/10/26
+-----------------------------------------------
+b>w>a>
+------------Product repair bill:---------------
+Your repair number is  94
+Your product model is  smartwatch
+Your purchase date is  2012/2/16
+Your address is  Taipei
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+a>f>b>p>c
+
+The customer is John,your choices are the following:
+c
+
+The customer is Tom,your choices are the following:
+b>w>a>
+------------Product repair bill:---------------
+Your repair number is  55
+Your product model is  smartwatch
+Your purchase date is  2003/3/5
+Your address is  Kaohsiung
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+b>p>b>s>p>w>a>
+------------Product repair bill:---------------
+Your repair number is  39
+Your product model is  smartwatch
+Your purchase date is  2013/11/25
+Your address is  Taipei
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+b>s>p>s>b>
+------------Product return bill:---------------
+Your return number: 52
+Your product model:sphygmometer
+Your product number:61
+Your address is  Taipei
+Your purchase date:2002/12/25
+-----------------------------------------------
+c
+
+The customer is John,your choices are the following:
+b>w>a>
+------------Product repair bill:---------------
+Your repair number is  56
+Your product model is  smartwatch
+Your purchase date is  2005/8/17
+Your address is  Taipei
+-----------------------------------------------
+It's our responsibility to reapir our products,so we don't charge any fee from you!
+a>f>c
+
+
+
+Total number of customers visited are 100 people
+char a is selected 156 times
+char b is selected 163 times
+char c is selected 122 times
+char r is selected 27 times
+char f is selected 34 times
+char v is selected 39 times
+char p is selected 98 times
+char w is selected 51 times
+char s is selected 52 times
+The time the customers spent were 742

@@ -1,0 +1,144 @@
+MAP
+ISLAND Beginning
+	TYPE Start 
+	ID 0
+	DESC College or Career?
+	NUM 0
+	NEXT 2 1 6
+
+	TYPE Payday 
+	ID 1
+	DESC Get pay!!
+	NUM 0
+	NEXT 1 2
+
+	TYPE GetMoney
+	ID 2
+	DESC Win Employee of the Year Award!!
+	NUM 20
+	NEXT 1 3
+
+	TYPE Empty
+	ID 3
+	DESC Draw a Story Card.
+	NUM 0
+	NEXT 1 4
+
+	TYPE GetMoney
+	ID 4
+	DESC Earn a big bonus!!
+	NUM 100
+	NEXT 1 5
+
+	TYPE Empty
+	ID 5
+	DESC Draw a Story Card.
+	NUM 0
+	NEXT 1 15
+
+
+	TYPE CollegeFee
+	ID 6
+	DESC Get a loan to pay college fee.
+	NUM 40
+	NEXT 1 7
+
+	TYPE GetMoney
+	ID 7
+	DESC Win a scholarship!!
+	NUM 50
+	NEXT 1 8
+
+	TYPE GetMoney
+	ID 8
+	DESC Work and study aboard!
+	NUM 20
+	NEXT 1 9
+
+	TYPE PayMoney
+	ID 9
+	DESC Buy books and computers. 
+	NUM 20
+	NEXT 1 10
+
+	TYPE Empty
+	ID 10
+	DESC Draw a Story Card.
+	NUM 0
+	NEXT 1 11
+
+	TYPE PayMoney
+	ID 11
+	DESC Change to a new subject. 
+	NUM 20
+	NEXT 1 12
+
+	TYPE GetMoney
+	ID 12
+	DESC Win a quiz show for students.
+	NUM 20
+	NEXT 1 13
+
+	TYPE GetMoney
+	ID 13
+	DESC Get a part time job. 
+	NUM 20
+	NEXT 1 14
+
+	TYPE Exam
+	ID 14
+	DESC Spin or pay to pass the exams.
+	NUM 0
+	NEXT 1 15
+
+
+	TYPE Empty
+	ID 15
+	DESC Draw a Story Card.
+	NUM 0
+	NEXT 1 16
+
+	TYPE Empty
+	ID 16
+	DESC Draw a Story Card.
+	NUM 0
+	NEXT 1 17
+
+	TYPE GetMoney
+	ID 17
+	DESC Start up a company
+	NUM 20
+	NEXT 1 18
+
+	TYPE GoToPort
+	ID 18
+	DESC Learn a new language! Move strait to set sail!
+	NUM 0
+	NEXT 1 19
+
+	TYPE SpinToWin
+	ID 19
+	DESC I don't know how to play.
+	NUM 0
+	NEXT 1 20
+
+	TYPE Payday 
+	ID 20
+	DESC Get pay!!
+	NUM 0
+	NEXT 1 21
+
+	TYPE Birthday
+	ID 21
+	DESC Collect 10k from each player!
+	NUM 10
+	NEXT 1 22
+
+	TYPE SetSail
+	ID 22
+	DESC Advanture!
+	NUM 0
+	NEXT 1 0
+ISLAND_END
+
+MAP_END

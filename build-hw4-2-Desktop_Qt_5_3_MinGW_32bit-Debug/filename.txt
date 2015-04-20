@@ -1,0 +1,2 @@
+NO.       outlook   temp      humidity  windy     play      
+1         sunny     78        45        false     yes       
